@@ -1,7 +1,6 @@
 ##Phần giới thiệu app:
 print("***PHẦN MỀM BÓI VUI 2019!***".center(50,' '))
-print("Phiên bản: v1.0.l".center(50,' '))
-print("Tác giả/Coder: Lê Hoàng Bảo Chung".center(50,' '))
+print("Phiên bản: v1.0".center(50,' '))
 print("="*50)
 print("*Đây là các chức năng trong ứng dụng: ")
 print("1: Hôn nhân")
